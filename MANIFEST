@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README.md
+t/001_load.t
+lib/Plack/Middleware/Favicon_Simple.pm
+perl-Plack-Middleware-Favicon_Simple.spec
